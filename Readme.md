@@ -4,7 +4,7 @@
   Tip: Replace the local PDF path with a hosted URL (GitHub repo file URL or Google Drive link) when ready.
 -->
 
-# 👋 Hi, I'm Md Taj Uddin
+# 👋 Hi, I'm Md Taj Uddin Alba
 
 **Final-year B.Tech CSE • Web Developer • Software Engineer**
 
